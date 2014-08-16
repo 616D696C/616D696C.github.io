@@ -1,0 +1,86 @@
+body {
+    font-family: "Open Sans",Arial;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #333;
+}
+
+#header-nav {
+    padding: 10px 0px;
+}
+
+#headline {
+    margin: 70px 0px 0px;
+    text-align: center;
+    padding: 30px 0px;
+}
+#my-big-image {
+	height:500px;
+
+}
+
+.bg.echeresque {
+    background: url('../img/escheresque.png') repeat scroll 0% 0% transparent;
+}
+
+.bg.struckaxiom p, .bg.echeresque p {
+    color: #666;
+}
+.bg p {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.bg.cool-black {
+    background: none repeat scroll 0% 0% #333;
+    color: #FFF;
+}
+
+.intro-content {
+    text-align: left;
+}
+
+
+.navbar{
+
+	height: 3cm;
+}
+
+.intro-content .title-img {
+    width: 100px;
+    padding-top: 20px;
+}
+
+.btn.btn-flat {
+    border: medium none;
+    box-shadow: none;
+    color: #FFF;
+    text-shadow: none;
+    padding: 10px 20px;
+    font-weight: normal;
+    border-radius: 3px;
+    background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.3);
+    transition: all 0.5s ease 0s;
+}
+
+.btn.btn-flat.btn-green:hover {
+    background: none repeat scroll 0% 0% #377537;
+}
+
+.btn.btn-flat.btn-green {
+    background: none repeat scroll 0% 0% #4FA950;
+}
+
+.btn.btn-flat.btn-orange {
+    background: none repeat scroll 0% 0% #F05444;
+}
+
+.btn.btn-flat.btn-orange:hover {
+    background: none repeat scroll 0% 0% #D62411;
+}
+
+.btn.btn-flat:hover {
+    background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.6);
+}
